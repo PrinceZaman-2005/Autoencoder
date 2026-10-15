@@ -71,6 +71,8 @@ PyTorch calculates the gradients and provides optimizers that use them to update
 
 This allows us to focus more on **model architecture, experiments, and learning objectives** rather than implementing every low-level operation ourselves.
 
+**Note:** Using PyTorch CPU version for GitHub Codespaces
+
 ## Trade-Off: Convenience vs. Control
 
 Frameworks such as PyTorch make AI development significantly easier, but convenience comes with trade-offs.
